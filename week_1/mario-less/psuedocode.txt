@@ -1,0 +1,21 @@
+Psuedocode for mario-less
+Prompting user for height
+While height is less than one or more than eight repromt user
+Else proceed to the next line
+Say height above is one, then
+    print hash on the first line and move to the next line.
+Go back to line five
+Say height above is any numbers between one and eight, then
+    print hash for the numbers of height in an increasing order of one more hash for each line.
+// The code above should give a left-sided alligned pyramid
+// Now for the right-sided alligned pyramid,
+// we need to push in certain numbers of spaces represented as dot first in a specific pattern.
+Go back to line eight
+    to print the number of dots for the first row,
+    print dot(s) using a for loop with the conditions,
+    that iterates the dot(s) numbers of time less than the height minus the rows' number minus one,
+On the same row using a for loop,
+    print number of hash(es) less than or equal to the rows' number
+// Note that the for loop repeats line fifteen for the next line till number of height equals the number of rows.
+Then replace the dot with a space.
+End
