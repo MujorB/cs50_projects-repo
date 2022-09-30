@@ -12,3 +12,4 @@ This repos holds the codes to how I was able to tackle each problem sets
 |    Week02 - Arrays        |   Scrabbles           |   A C program mimick of the classic Scrabbles game        |
 |                           |   Readability         |   A Text Grade Level index checker program            |    
 
+## Resource
